@@ -1,5 +1,6 @@
 
 facebook.com, 1953763124938106, DIRECT, c3e20eee3f780d68
+google.com, pub-6982475368074257, DIRECT, f08c47fec0942fa0
 google.com, pub-7171269809080077, DIRECT, f08c47fec0942fa0
 appnexus.com, 7353, RESELLER
 appnexus.com, 2764, RESELLER
