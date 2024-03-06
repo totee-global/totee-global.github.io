@@ -8,6 +8,7 @@ facebook.com, 1628327730754812, DIRECT, c3e20eee3f780d68
 google.com, pub-6982475368074257, DIRECT, f08c47fec0942fa0
 google.com, pub-7171269809080077, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 61184, DIRECT
+google.com, pub-4686405784285870, DIRECT, f08c47fec0942fa0
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 whildey.com, 5541841875, RESELLER
 adnuro.com, 2882096573, RESELLER
