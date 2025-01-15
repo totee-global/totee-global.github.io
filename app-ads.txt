@@ -9,6 +9,51 @@ rubiconproject.com, 26510, RESELLER, 0bfd66d529a55807
 rhythmone.com, 689559416, RESELLER, a670c89d4a324e47
 unrulymedia.com, 1058378980, RESELLER
 inmobi.com, ce8fc8ddda9a4b85875594085f6ff476, DIRECT, 83e75a7ae333ca9d
+33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
+adiiix.com,3d9335d3,RESELLER
+adiiix.com,db716a4c,RESELLER
+admanmedia.com,20,RESELLER
+adyoulike.com,78afbc34fac571736717317117dfa247,RESELLER
+adyoulike.com,994b7b4e03898048761c7110f11e56c2,RESELLER
+appnexus.com,13709,RESELLER,f5ab79cb980f11d1
+aralego.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
+caerulus.io,3320-72775,RESELLER
+conversantmedia.com,100242,RESELLER,03113cd04947736d
+eliteappgrade.com,494223,RESELLER
+fromthetop.io,65536,RESELLER
+hindsightsolutions.net,323-b5738,RESELLER,20e30b2ae1f670f2
+lijit.com,512156,RESELLER,fafdf38b16bf6b2b
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf32954,RESELLER
+onlinemediasolutions.com,20444,RESELLER
+openx.com,561436793,RESELLER,6a698e2ec38604c6
+playdigo.com,1986,RESELLER,92011346d63d3c30
+playdigo.com,2041,RESELLER,92011346d63d3c30
+prado.co,15127,RESELLER
+programmaticx.ai,6888889,RESELLER
+pubmatic.com,160692,RESELLER,5d62403b186f2ace
+pubmatic.com,162974,RESELLER,5d62403b186f2ace
+pubmatic.com,165117,RESELLER,5d62403b186f2ace
+pubmatic.com,165438,RESELLER,5d62403b186f2ace
+pubmatic.com,166078,RESELLER,5d62403b186f2ace
+pubnative.net,1009029,RESELLER,d641df8625486a7b
+risecodes.com,662a26f1f3d42a00015ffbad,RESELLER
+rubiconproject.com,25386,RESELLER,0bfd66d529a55807
+rubiconproject.com,26846,RESELLER,0bfd66d529a55807
+sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2a
+singularads.com,548745,RESELLER
+sonobi.com,4a289cdd79,RESELLER,d1a215d9eb5aee9e
+ssp.e-volution.ai,AJxF6R396a9M6CaTvK,RESELLER
+themediagrid.com,SYMTFD,RESELLER,35d5010d7789b49d
+tradplusad.com,97f87d32cbc437a3,RESELLER
+triplelift.com,12456,RESELLER,6c33edb13117fd86
+triplelift.com,13043,RESELLER,6c33edb13117fd86
+ucfunnel.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
+video.unrulymedia.com,755432070,RESELLER
+video.unrulymedia.com,947824792,RESELLER
+videoheroes.tv,212428,RESELLER,064bc410192443d8
+zetaglobal.net,757,RESELLER
+zetaglobal.net,998,RESELLER
+zmaticoo.com,5135224,RESELLER
 inmobi.com, ce8fc8ddda9a4b85875594085f6ff476, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
