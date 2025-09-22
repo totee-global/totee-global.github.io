@@ -5,6 +5,24 @@ contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24248, RESELLER, 0bfd66d529a55807
+lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 583925374, RESELLER
+admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
+smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
+risecodes.com, 67e92bf7698942000140acce, RESELLER
+smartadserver.com, 4284, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+voisetech.com, 1127, RESELLER, 9009ef0379162448
+media.net, 8CUE65SNU, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
+freewheel.tv, sg1258340, RESELLER
+supply.colossusssp.com, 907, RESELLER
 appnexus.com, 12941, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12752, RESELLER, f5ab79cb980f11d1
 #Premium Programmatic Demand by publisher@greedygame.com
