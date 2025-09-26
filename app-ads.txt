@@ -7,6 +7,7 @@ loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24248, RESELLER, 0bfd66d529a55807
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
 video.unrulymedia.com, 583925374, RESELLER
 admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
